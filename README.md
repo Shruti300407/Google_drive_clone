@@ -16,6 +16,9 @@ This is a simple Google Drive UI clone built using **HTML**, **CSS**, and **Mate
 - CSS3
 - Materialize CSS (Google Material Design Framework)
 
+## GOOGLE_DRIVE_UI
+![image alt ](https://github.com/Shruti300407/Google_drive_clone/blob/e415241ff219499318240211f12a73dee3b7bcaa/google_drive_UI.png)
+
 
 
 
